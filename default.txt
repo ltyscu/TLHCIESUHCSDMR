@@ -1,0 +1,5 @@
+"Encryption.m, encode_and_decode.m, dispatch.m, f1.m, f2.m, f3.m, f4.m"为主要加密算法程序，"Decryption.m, before_DNA_operations.m"为主要解密算法程序。其中"before_DNA_operations.m"为"encode_and_decode.m"的逆操作。其余".m"文件为各种测试程序。
+加密算法主入口程序为"Encryption.m"。加密之前先获取相应图像的SHA-256哈希值，然后修改被加密图像的路径。
+解密算法主入口程序为"Decryption.m"。解密之前需要先计算出加密过程用到的所有参数。
+各种测试程序以"test"+数字命名。其他命名方式的测试程序为辅助测试程序，按情况执行。
+文件夹“gray”中的程序对应论文中“Extensions to gray image”部分。

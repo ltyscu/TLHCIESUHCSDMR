@@ -1,0 +1,12 @@
+str_B7 = str_B7 - '0';
+str_B7_ = str_B7_ - '0';
+str_B8 = str_B8 - '0';
+str_B8_ = str_B8_ - '0';
+str_G7 = str_G7 - '0';
+str_G7_ = str_G7_ - '0';
+str_G8 = str_G8 - '0';
+str_G8_ = str_G8_ - '0';
+str_R7 = str_R7 - '0';
+str_R7_ = str_R7_ - '0';
+str_R8 = str_R8 - '0';
+str_R8_ = str_R8_ - '0';
